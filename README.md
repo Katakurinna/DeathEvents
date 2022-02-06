@@ -26,5 +26,7 @@ The plugin is not ready to modify the messages.
 
 ### Examples
 ![!podium command](https://i.gyazo.com/54ccb551a2437150e3722fb95b4dc391.png)
+
 ![!stats command](https://i.gyazo.com/9bcc03058d5614a52513b7e5fe24a1e8.png)
+
 ![Kill event message](https://i.gyazo.com/57e9e0f5deb417af44c7d16350cb3224.png)
